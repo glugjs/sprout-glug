@@ -2,14 +2,8 @@
   "name": "<%= name %>",
   "version": "0.0.0",
   "description": "<%= description %>",
-  "author": "<%= name %>",
-  "license": "MIT",
+  "author": "",
   "devDependencies": {
-    "chai": "2.1.x",
-    "chai-as-promised": "4.3.x",
-    "coffee-script": "1.9.1",
-    "mocha": "2.2.x",
-    "rimraf": "2.3.x",
     "sprout": "0.4.x"
   },
   "dependencies": {
