@@ -1,3 +1,3 @@
-# glug
+# <%= name %>
 
-A generator for glug projects
+<%= description %>
