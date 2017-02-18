@@ -12,7 +12,7 @@
     "chai-as-promised": "~6.0.0",
     "coffee-script": "1.12.2",
     "mocha": "~3.2.0",
-    "rimraf": "~2.5.4",
+    "rimraf": "~2.6.0",
     "sprout": "~1.2.0"
   },
   "dependencies": {
